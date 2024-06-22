@@ -1,0 +1,8 @@
+payload:
+- DOMAIN,media.nijigem.by
+- DOMAIN,cf.imetyou.top
+- DOMAIN,hy.amatsuka.xyz
+- DOMAIN,vless.maovless.dynv6.net
+- GEOIP,cloudflare
+- GEOSITE,apple-cn
+- GEOSITE,category-games@cn
