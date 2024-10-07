@@ -1,2 +1,3 @@
 payload:
 - DOMAIN-SUFFIX,vxload.com
+- PROCESS-NAME,ddns-go
