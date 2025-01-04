@@ -6,4 +6,4 @@ payload:
 #- GEOIP,cloudflare
 - GEOSITE,apple-cn
 - GEOSITE,category-games@cn
-- AND,((PROCESS-NAME,AdGuardHome),(DOMAIN-REGEX,.*xns\.one))
+- DOMAIN-REGEX,.*xns\.one
