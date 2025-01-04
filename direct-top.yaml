@@ -6,3 +6,4 @@ payload:
 #- GEOIP,cloudflare
 - GEOSITE,apple-cn
 - GEOSITE,category-games@cn
+- AND,((PROCESS-NAME,AdGuardHome),(DOMAIN-KEYWORD,xns.one))
