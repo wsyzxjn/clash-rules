@@ -7,3 +7,6 @@ payload:
 - GEOSITE,apple-cn
 - GEOSITE,category-games@cn
 - DOMAIN-REGEX,.*xns\.one
+- DOMAIN,cn-test.burn.hair
+- DOMAIN,pan.poiblog.com
+- DOMAIN,drive.poiblog.com
