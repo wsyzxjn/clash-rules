@@ -2,3 +2,4 @@ payload:
 - DOMAIN,novadash.azurewebsites.net
 - DOMAIN,dash.xns.one
 - DOMAIN,static.xns.one
+- DOMAIN-SUFFIX,pixtech.cc
