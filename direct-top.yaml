@@ -8,3 +8,4 @@ payload:
 - GEOSITE,category-games@cn
 - DOMAIN-REGEX,.*xns\.one
 - DOMAIN,cn-test.burn.hair
+- DOMAIN-SUFFIX,bgp.yt
